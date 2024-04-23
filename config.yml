@@ -1,0 +1,168 @@
+baseurl: "https://example.org/"
+title: "Fourty Two Star"
+canonifyurls: true
+theme: "hugo-conference"
+
+GoogleAnalytics: ""
+
+params:
+  # Conference info
+  Name: "42* Event"
+  Description: "42 The Answer"
+  Date: "August 24"
+  #Price: "Only $100" # If your event is free, just comment this line
+  Venue: "Kulturwiese"
+  Address: "Schreberweg 21"
+  City:  "Darmstadt"
+  State: "Hessen"
+  Images: ["/img/badge.jpg"]
+  #GoogleMapsKey: "sSPBUTYT6NXrCBjv9"
+  #https://maps.app.goo.gl/sSPBUTYT6NXrCBjv9
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    - location
+    - speakers
+    - schedule
+    #- sponsors
+    - partners
+    #- contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    about: "About"
+    location: "Location"
+    speakers: "Artists"
+    schedule: "Schedule"
+    #sponsors: "Sponsors"
+    partners: "Prologue"
+    contact: "Contact"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  #CallToAction:
+  #  text: "Register now!"
+  #  link: "http://register.example.com"
+
+  # Fork me on GitHub, if you don't want this, just remove the forkButton property
+  #ForkButton:
+  #  repository: "https://github.com/jweslley/hugo-conference/"
+
+  # List of Sponsors
+  #Sponsors:
+  #  - name: "Hugo"
+  #    logo: "/img/hugo.png"
+  #    url: "http://gohugo.io"
+
+  # List of Partners
+  Partners:
+    text: "The ulitimate text .. from A.Diroll"
+
+  # The entire schedule
+  Schedule:
+    - name: "Getting Ready"
+      time: "13h00"
+
+    - name: "Modular Madness"
+      photo: "/img/slomosmo.png"
+      bio: "An experimental modular synthesizer chill out session."
+      company: "Slomosmo & Friends"
+      link:
+        href: "https://soundcloud.com/slomosmo"
+        text: "by slomosmo"
+      presentation:
+        title: "Patch Cables"
+        description: "Slomosmo & Friends will do a great electronic live performance. This is a side project, playing music during the live painting sessions untill 17:00 o`clock round about."
+        time: "13h00"
+
+    - name: "Live Painting"
+      photo: "/img/nick.png"
+      bio: "The people from Neuzeit Kollektive around Nick Marschalek will paint some nice drawings."
+      company: "Nick Marschalek & Friends"
+      link:
+        href: "https://linktr.ee/nickmarschalek"
+        text: "by nickmarschalek"
+      presentation:
+        title: "37 Magics"
+        description: "Nick Marschalek & Friends will paint images during modular madness session and beyond. Additional there will be some other interactive painting possibilies .."
+        time: "13h00"
+
+    - name: "Silkscreen Printing"
+      photo: "/img/siebdruck.png"
+      bio: "Opportunity to print some/your cloth with silkscreen."
+      company: "Nino & His Machinery"
+      link:
+        href: "https://en.wikipedia.org/wiki/37_(number)"
+        text: "by nino_37"
+      presentation:
+        title: "Print Some"
+        description: "You can bring your own or buy some cloth from us to print predesigned artworks. If you like to prepare something in advance, let us know.."
+        time: "13h00"
+
+    - name: "Theater Performance"
+      time: "14h00"
+
+    - name: "Theater 1: Be you"
+      photo: "/img/beyou.png"
+      bio: "Theather Performance from A.Diroll & Johanna"
+      company: "Be You Assemble"
+      link:
+        href: "https://www.p-stadtkultur.de/p-autoren/alex-diroll"
+        text: "by alexdiroll"
+      presentation:
+        title: "Theater: Be you"
+        description: "@ Side Stage: Text zum Theaterstuck.."
+        time: "14h00"
+
+    - name: "Theater 2: Fourtytwostar"
+      photo: "/img/42new.png"
+      bio: "Theather Performance from Fourtytwostar ..."
+      company: "Fourtytwostar Assemble"
+      link:
+        href: "http://github.com/billy95"
+        text: "by fourtytwostar"
+      presentation:
+        title: "Theater: Fourtytwostar"
+        description: "@ Side Stage Text zum Theaterstuck.."
+        time: "15h00"
+
+    - name: "Live Music Performance"
+      time: "17h00"
+
+    - name: "Concrete Jungle"
+      photo: "/img/cj2.jpg"
+      bio: "One of the best and oldest Reggea Bands in Darmstadt."
+      company: "Concrete Jungle"
+      link:
+        href: "http://www.concretejungle.de"
+        text: "@concretejungle"
+      presentation:
+        title: "Badass Reggea"
+        description: "Band Text here .."
+        time: "17h00"
+
+    - name: "The Bad Sugar Rush"
+      photo: "/img/tbsr.jpg"
+      bio: "Some of the finest Soul & Rock music from Darmstadt"
+      company: "The Bad Sugar Rush"
+      link:
+        href: "https://www.facebook.com/badsugarrush"
+        text: "@badsugarrush"
+      presentation:
+        title: "Soul & Rock Music"
+        description: "The Bad Sugar Rush is a group from Darmstadt, combining the tastes of Soul and Rock music"
+        time: "18h45"
+
+    - name: "Lucid Void"
+      photo: "/img/lucidvoid.jpg"
+      bio: "Real Psychodelic Rock from Darmstadt"
+      company: "Lucid Void"
+      link:
+        href: "https://lucidvoid.bandcamp.com"
+        text: "@lucidvoid"
+      presentation:
+        title: "Psychodelic Krautrock"
+        description: "The psychedelic Krautrock band from Darmstadt"
+        time: "20h30"
