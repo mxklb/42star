@@ -32,10 +32,10 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
-    about: "About"
+    about: "Info"
     location: "Location"
-    speakers: "Artists"
-    schedule: "Schedule"
+    speakers: "Events"
+    schedule: "Ablauf"
     #sponsors: "Sponsors"
     partners: "Prologue"
     contact: "Contact"
@@ -62,107 +62,119 @@ params:
 
   # The entire schedule
   Schedule:
-    - name: "Getting Ready"
+    - name: "Starters"
       time: "13h00"
 
-    - name: "Modular Madness"
+    - name: "Patch Some Cables"
       photo: "/img/slomosmo.png"
-      bio: "An experimental modular synthesizer chill out session."
+      bio: "Eine experimentelle Modular Synthesizer Chill Out Session."
       company: "Slomosmo & Friends"
       link:
         href: "https://soundcloud.com/slomosmo"
         text: "by slomosmo"
       presentation:
-        title: "Patch Cables"
+        title: "Modular Lab"
         description: "Slomosmo & Friends will do a great electronic live performance. This is a side project, playing music during the live painting sessions untill 17:00 o`clock round about."
         time: "13h00"
 
-    - name: "Live Painting"
+    - name: "37 Magics"
       photo: "/img/nick.png"
-      bio: "The people from Neuzeit Kollektive around Nick Marschalek will paint some nice drawings."
+      bio: "Nick Marschalek und seine Freunde vom Neuzeit Kollektive malen freaky Bilder."
       company: "Nick Marschalek & Friends"
       link:
         href: "https://linktr.ee/nickmarschalek"
         text: "by nickmarschalek"
       presentation:
-        title: "37 Magics"
+        title: "Live Painting"
         description: "Nick Marschalek & Friends will paint images during modular madness session and beyond. Additional there will be some other interactive painting possibilies .."
         time: "13h00"
 
-    - name: "Silkscreen Printing"
-      photo: "/img/siebdruck.png"
-      bio: "Opportunity to print some/your cloth with silkscreen."
-      company: "Nino & His Machinery"
+    - name: "Print Some"
+      photo: "/img/nino.jpg"
+      bio: "Wer passende Klamotte mitbringt, kann bei Nino bedruckt werden."
+      company: "Nino & Seine Maschinen"
       link:
-        href: "https://en.wikipedia.org/wiki/37_(number)"
-        text: "by nino_37"
+        href: "https://www.instagram.com/streetheartcolor/"
+        text: "by nino"
       presentation:
-        title: "Print Some"
+        title: "Nino's Siebdruck"
         description: "You can bring your own or buy some cloth from us to print predesigned artworks. If you like to prepare something in advance, let us know.."
         time: "13h00"
 
-    - name: "Theater Performance"
+    - name: "Find Out What"
+      photo: "/img/workshop2.jpg"
+      bio: "Eine Option herauzufinden, was es herauszufinden gibt."
+      company: "Unkown People"
+      link:
+        href: "https://en.wikipedia.org/wiki/37_(number)"
+        text: "by whatever_37"
+      presentation:
+        title: "Missing Workshop"
+        description: "You can bring your own or buy some cloth from us to print predesigned artworks. If you like to prepare something in advance, let us know.."
+        time: "13h00"
+
+    - name: "Theater"
       time: "14h00"
 
-    - name: "Theater 1: Be you"
+    - name: "Theater 1"
       photo: "/img/beyou.png"
-      bio: "Theather Performance from A.Diroll & Johanna"
+      bio: "Theather Performance von A.Diroll & Johanna"
       company: "Be You Assemble"
       link:
         href: "https://www.p-stadtkultur.de/p-autoren/alex-diroll"
-        text: "by alexdiroll"
+        text: "by beyouuuu"
       presentation:
-        title: "Theater: Be you"
+        title: "Be U2"
         description: "@ Side Stage: Text zum Theaterstuck.."
         time: "14h00"
 
-    - name: "Theater 2: Fourtytwostar"
+    - name: "Theater 2"
       photo: "/img/42new.png"
-      bio: "Theather Performance from Fourtytwostar ..."
+      bio: "Theather Performance von Fourtytwostar ..."
       company: "Fourtytwostar Assemble"
       link:
         href: "http://github.com/billy95"
         text: "by fourtytwostar"
       presentation:
-        title: "Theater: Fourtytwostar"
+        title: "Fourtytwostar"
         description: "@ Side Stage Text zum Theaterstuck.."
         time: "15h00"
 
-    - name: "Live Music Performance"
-      time: "17h00"
+    - name: "Live Music"
+      time: "18h00"
 
-    - name: "Concrete Jungle"
-      photo: "/img/cj2.jpg"
-      bio: "One of the best and oldest Reggea Bands in Darmstadt."
-      company: "Concrete Jungle"
-      link:
-        href: "http://www.concretejungle.de"
-        text: "@concretejungle"
-      presentation:
-        title: "Badass Reggea"
-        description: "Band Text here .."
-        time: "17h00"
-
-    - name: "The Bad Sugar Rush"
-      photo: "/img/tbsr.jpg"
-      bio: "Some of the finest Soul & Rock music from Darmstadt"
-      company: "The Bad Sugar Rush"
-      link:
-        href: "https://www.facebook.com/badsugarrush"
-        text: "@badsugarrush"
-      presentation:
-        title: "Soul & Rock Music"
-        description: "The Bad Sugar Rush is a group from Darmstadt, combining the tastes of Soul and Rock music"
-        time: "18h45"
-
-    - name: "Lucid Void"
+    - name: "Psychodelic Krautrock"
       photo: "/img/lucidvoid.jpg"
-      bio: "Real Psychodelic Rock from Darmstadt"
+      bio: "Psychodelic Rock aus Darmstadt"
       company: "Lucid Void"
       link:
         href: "https://lucidvoid.bandcamp.com"
         text: "@lucidvoid"
       presentation:
-        title: "Psychodelic Krautrock"
-        description: "The psychedelic Krautrock band from Darmstadt"
-        time: "20h30"
+        title: "Lucid Void"
+        description: "Band Text here .."
+        time: "18h00"
+
+    - name: "Soul & Rock Music"
+      photo: "/img/tbsr.jpg"
+      bio: "Finest Soul & Rock Music aus Darmstadt"
+      company: "The Bad Sugar Rush"
+      link:
+        href: "https://www.facebook.com/badsugarrush"
+        text: "@badsugarrush"
+      presentation:
+        title: "The Bad Sugar Rush"
+        description: "Band Text here .."
+        time: "19h30"
+
+    - name: "Psychodelic Space Jazz"
+      photo: "/img/karaba.jpg"
+      bio: "Space Kraut Jazz aus München"
+      company: "Karaba"
+      link:
+        href: "https://karaba-band.bandcamp.com/album/karaba-all-high-ways"
+        text: "@karaba"
+      presentation:
+        title: "Karaba"
+        description: "Band Text here .."
+        time: "21h00"
