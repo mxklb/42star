@@ -34,8 +34,8 @@ params:
   Titles:
     about: "Info"
     location: "Location"
-    speakers: "Was Geht"
-    schedule: "Ablauf"
+    speakers: "What's up"
+    schedule: "Timetable"
     partners: "Prolog"
     sponsors: "Kontakt"
     #contact: "Contact"
