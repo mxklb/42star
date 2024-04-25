@@ -37,7 +37,7 @@ params:
     speakers: "Events"
     schedule: "Ablauf"
     #sponsors: "Sponsors"
-    partners: "Prologue"
+    partners: "Prolog"
     contact: "Contact"
 
   # The Call To Action button at the header,
@@ -62,43 +62,55 @@ params:
 
   # The entire schedule
   Schedule:
-    - name: "Starters"
+    - name: "Starter"
       time: "13h00"
 
     - name: "Patch Some Cables"
       photo: "/img/slomosmo.png"
       bio: "Eine experimentelle Modular Synthesizer Chill Out Session."
-      company: "Slomosmo & Friends"
+      company: "Slomosmo"
       link:
         href: "https://soundcloud.com/slomosmo"
         text: "by slomosmo"
       presentation:
         title: "Modular Lab"
-        description: "Slomosmo & Friends will do a great electronic live performance. This is a side project, playing music during the live painting sessions untill 17:00 o`clock round about."
+        description: "Slomosmo & Friends kredenzen euch eine wundervoll elektronische Live Session. Sie machen Musik zur Untermalung des Live Paintings bis in den Nachmittag hinein."
         time: "13h00"
 
     - name: "37 Magics"
       photo: "/img/nick.png"
-      bio: "Nick Marschalek und seine Freunde vom Neuzeit Kollektive malen freaky Bilder."
-      company: "Nick Marschalek & Friends"
+      bio: "Nick Marschalek und seine Freunde vom Neuzeit Kollektive malen Bilder."
+      company: "Nick Marschalek"
       link:
         href: "https://linktr.ee/nickmarschalek"
         text: "by nickmarschalek"
       presentation:
         title: "Live Painting"
-        description: "Nick Marschalek & Friends will paint images during modular madness session and beyond. Additional there will be some other interactive painting possibilies .."
+        description: "Nick Marschalek & Bekannte vom Neuzeit Kollektiv malen bunte Bilder, begleitet von der modular Syth Session."
         time: "13h00"
 
     - name: "Print Some"
       photo: "/img/nino.jpg"
       bio: "Wer passende Klamotte mitbringt, kann bei Nino bedruckt werden."
-      company: "Nino & Seine Maschinen"
+      company: "Streetheartcolor"
       link:
         href: "https://www.instagram.com/streetheartcolor/"
         text: "by nino"
       presentation:
         title: "Nino's Siebdruck"
-        description: "You can bring your own or buy some cloth from us to print predesigned artworks. If you like to prepare something in advance, let us know.."
+        description: "Eigene Klamotte mitbringen zum bedrucken, oder was bei Nino kaufen."
+        time: "13h00"
+
+    - name: "Make A Button"
+      photo: "/img/button.jpg"
+      bio: "Bastel dir deinen individuellen 42* Button."
+      company: "Miss Button"
+      link:
+        href: "https://en.wikipedia.org/wiki/37_(number)"
+        text: "by missbutton"
+      presentation:
+        title: "Button Workshop"
+        description: "Ein 42* Button beantwortet generell auch alle Fragen."
         time: "13h00"
 
     - name: "Find Out What"
@@ -110,7 +122,7 @@ params:
         text: "by whatever_37"
       presentation:
         title: "Missing Workshop"
-        description: "You can bring your own or buy some cloth from us to print predesigned artworks. If you like to prepare something in advance, let us know.."
+        description: "Finde heraus, was es schon immer herauszufinden galt."
         time: "13h00"
 
     - name: "Theater"
@@ -124,7 +136,7 @@ params:
         href: "https://www.p-stadtkultur.de/p-autoren/alex-diroll"
         text: "by beyouuuu"
       presentation:
-        title: "Be U2"
+        title: "Be You"
         description: "@ Side Stage: Text zum Theaterstuck.."
         time: "14h00"
 
