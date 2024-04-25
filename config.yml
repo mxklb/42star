@@ -173,7 +173,7 @@ params:
     - name: "Soul & Rock Music"
       photo: "/img/tbsr.jpg"
       bio: "Finest Soul & Rock Music aus Darmstadt"
-      company: "Soul & Rock Music"
+      company: "Soul & Rock"
       link:
         href: "https://www.facebook.com/badsugarrush"
         text: "@badsugarrush"
