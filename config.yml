@@ -9,7 +9,7 @@ params:
   # Conference info
   Name: "42* Event"
   Description: "42 The Answer"
-  Date: "August 24"
+  Date: "24. August"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Kulturwiese"
   Address: "Schreberweg 21"
