@@ -61,7 +61,7 @@ params:
 
   # List of Partners
   Partners:
-    text: "The ulitimate text .. from A.Diroll"
+    text: "The ulitimate text/audio .. from A.Diroll"
 
   # The entire schedule
   Schedule:
