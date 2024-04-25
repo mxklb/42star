@@ -175,7 +175,7 @@ params:
       bio: "Finest Soul & Rock Music aus Darmstadt"
       company: "Soul & Rock"
       link:
-        href: "https://www.facebook.com/badsugarrush"
+        href: "https://badsugarrush.bandcamp.com"
         text: "@badsugarrush"
       presentation:
         title: "The Bad Sugar Rush"
@@ -187,7 +187,7 @@ params:
       bio: "Space Kraut Jazz aus München"
       company: "Psychodelic Space Jazz"
       link:
-        href: "https://karaba-band.bandcamp.com/album/karaba-all-high-ways"
+        href: "https://karaba-band.bandcamp.com"
         text: "@karaba"
       presentation:
         title: "Karaba"
