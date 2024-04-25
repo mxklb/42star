@@ -7,3 +7,9 @@ This is the landing page for the 42 Start Event 2024.
 To run this loacally
 
     hugo server --watch
+
+## Deployment
+
+This page is deployed to github pages: [mxklb.github.io/42star](https://mxklb.github.io/42star)
+
+![qr code image](static/img/qrcode.png)

@@ -26,8 +26,8 @@ params:
     - location
     - speakers
     - schedule
-    #- sponsors
     - partners
+    - sponsors
     #- contact
 
   # Titles which you can translate to other languages
@@ -36,9 +36,9 @@ params:
     location: "Location"
     speakers: "Events"
     schedule: "Ablauf"
-    #sponsors: "Sponsors"
     partners: "Prolog"
-    contact: "Contact"
+    sponsors: "Kontakt"
+    #contact: "Contact"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
@@ -51,10 +51,13 @@ params:
   #  repository: "https://github.com/jweslley/hugo-conference/"
 
   # List of Sponsors
-  #Sponsors:
-  #  - name: "Hugo"
-  #    logo: "/img/hugo.png"
-  #    url: "http://gohugo.io"
+  Sponsors:
+    - name: "Max"
+      logo: "/img/contact.png"
+      url: "https://github.com/mxklb"
+    - name: "Link"
+      logo: "/img/qrcode.png"
+      url: "https://mxklb.github.io/42star"
 
   # List of Partners
   Partners:
@@ -79,14 +82,14 @@ params:
 
     - name: "37 Magics"
       photo: "/img/nick.png"
-      bio: "Nick Marschalek und seine Freunde vom Neuzeit Kollektive malen Bilder."
+      bio: "Nick Marschalek vom Neuzeit Kollektive malt bunte Bilder."
       company: "Nick Marschalek"
       link:
         href: "https://linktr.ee/nickmarschalek"
         text: "by nickmarschalek"
       presentation:
         title: "Live Painting"
-        description: "Nick Marschalek & Bekannte vom Neuzeit Kollektiv malen bunte Bilder, begleitet von der modular Syth Session."
+        description: "Nick Marschalek vom Neuzeit Kollektiv malt bunte Bilder, begleitet von der Modular Synthesizer Session."
         time: "13h00"
 
     - name: "Print Some"
@@ -158,7 +161,7 @@ params:
     - name: "Psychodelic Krautrock"
       photo: "/img/lucidvoid.jpg"
       bio: "Psychodelic Rock aus Darmstadt"
-      company: "Lucid Void"
+      company: "Psychodelic Krautrock"
       link:
         href: "https://lucidvoid.bandcamp.com"
         text: "@lucidvoid"
@@ -170,7 +173,7 @@ params:
     - name: "Soul & Rock Music"
       photo: "/img/tbsr.jpg"
       bio: "Finest Soul & Rock Music aus Darmstadt"
-      company: "The Bad Sugar Rush"
+      company: "Soul & Rock Music"
       link:
         href: "https://www.facebook.com/badsugarrush"
         text: "@badsugarrush"
@@ -182,7 +185,7 @@ params:
     - name: "Psychodelic Space Jazz"
       photo: "/img/karaba.jpg"
       bio: "Space Kraut Jazz aus München"
-      company: "Karaba"
+      company: "Psychodelic Space Jazz"
       link:
         href: "https://karaba-band.bandcamp.com/album/karaba-all-high-ways"
         text: "@karaba"
