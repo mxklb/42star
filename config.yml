@@ -118,7 +118,7 @@ params:
 
     - name: "Find Out What"
       photo: "/img/workshop2.jpg"
-      bio: "Eine Option herauzufinden, was es herauszufinden gibt."
+      bio: "Eine Option herauszufinden, was es herauszufinden gibt."
       company: "Unkown People"
       link:
         href: "https://en.wikipedia.org/wiki/37_(number)"
@@ -133,29 +133,29 @@ params:
 
     - name: "Theater 1"
       photo: "/img/beyou.png"
-      bio: "Theather Performance von A.Diroll & Johanna"
+      bio: "Theater Performance von A.Diroll & Johanna"
       company: "Be You Assemble"
       link:
         href: "https://www.p-stadtkultur.de/p-autoren/alex-diroll"
         text: "by beyouuuu"
       presentation:
         title: "Be You"
-        description: "@ Side Stage: Text zum Theaterstuck.."
+        description: "@ Side Stage: Text zum Theaterstück.."
         time: "14h00"
 
     - name: "Theater 2"
       photo: "/img/42new.png"
-      bio: "Theather Performance von Fourtytwostar ..."
+      bio: "Theater Performance von Fourtytwostar ..."
       company: "Fourtytwostar Assemble"
       link:
         href: "http://github.com/billy95"
         text: "by fourtytwostar"
       presentation:
         title: "Fourtytwostar"
-        description: "@ Side Stage Text zum Theaterstuck.."
+        description: "@ Side Stage Text zum Theaterstück.."
         time: "15h00"
 
-    - name: "Live Music"
+    - name: "Live Musik"
       time: "18h00"
 
     - name: "Psychodelic Krautrock"
