@@ -153,7 +153,7 @@ params:
         time: "14:00"
 
     - name: "Erlesenes Kraut"
-      photo: "/img/herbs.png"
+      photo: "/img/herbs.jpg"
       bio: "Wer sucht der findet, frisch von der Kulturwiese"
       company: "Mira"
       link:
@@ -182,7 +182,7 @@ params:
     - name: "Poetry Slam"
       photo: "/img/42new.png"
       bio: "Und was hat das jetzt alles mit 5 mal 79 zu tun?"
-      company: "Fourtytwostar Assemble"
+      company: "Fourtytwostar"
       link:
         href: "https://simple.wikipedia.org/wiki/42_(answer)"
         text: "by FourtyTwoStar"
