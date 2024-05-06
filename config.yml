@@ -160,7 +160,7 @@ params:
         href: ""
         text: "by Mira"
       presentation:
-        title: "Kräuterwanderung"
+        title: "Kräuter Wanderung"
         description: "Schaut euch auf der Wiese genau um, es gibt dort einiges zu pflücken."
         time: "16:00"
 
@@ -215,7 +215,7 @@ params:
         text: ">> Link"
       presentation:
         title: "The Bad Sugar Rush"
-        description: "Die Band The Bad Sugar Rush spielen Ihre neusten Songs, man darf sehr gespannt sein. Put on your dancing shoes .."
+        description: "Die Band The Bad Sugar Rush spielen Ihre neusten Hits, man darf sehr gespannt sein. Put on your dancing shoes .."
         time: "19:30"
 
     - name: "Psychodelic Jazz Rock"
