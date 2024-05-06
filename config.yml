@@ -66,70 +66,106 @@ params:
   # The entire schedule
   Schedule:
     - name: "Starter"
-      time: "13h00"
+      time: "13-18"
 
     - name: "Patch Some Cables"
       photo: "/img/slomosmo.png"
-      bio: "Eine experimentelle Modular Synthesizer Chill Out Session."
+      bio: "Eine experimentelle Modular Synthesizer Chill Out Session"
       company: "Slomosmo"
       link:
         href: "https://soundcloud.com/slomosmo"
-        text: "by slomosmo"
+        text: "by Slomosmo"
       presentation:
         title: "Modular Lab"
         description: "Slomosmo & Friends kredenzen euch eine wundervoll elektronische Live Session. Sie machen Musik zur Untermalung des Live Paintings bis in den Nachmittag hinein."
-        time: "13h00"
+        time: "13:00"
 
     - name: "37 Magics"
       photo: "/img/nick.png"
-      bio: "Nick Marschalek vom Neuzeit Kollektive malt bunte Bilder."
+      bio: "Nick Marschalek vom Neuzeit Kollektive malt nice Bilder"
       company: "Nick Marschalek"
       link:
         href: "https://linktr.ee/nickmarschalek"
-        text: "by nickmarschalek"
+        text: "by Nick Marschalek"
       presentation:
         title: "Live Painting"
-        description: "Nick Marschalek vom Neuzeit Kollektiv malt bunte Bilder, begleitet von der Modular Synthesizer Session."
-        time: "13h00"
+        description: "Nick Marschalek vom Neuzeit Kollektiv malt nice Bilder, begleitet von der Modular Synthesizer Session."
+        time: "13:00"
 
     - name: "Print Some"
       photo: "/img/nino.jpg"
-      bio: "Wer passende Klamotte mitbringt, kann bei Nino bedruckt werden."
+      bio: "Wer passende Klamotte mitbringt, kann bei Nino bedruckt werden"
       company: "Streetheartcolor"
       link:
         href: "https://www.instagram.com/streetheartcolor/"
-        text: "by streetheartcolor"
+        text: "by Streetheartcolor"
       presentation:
         title: "Nino's Siebdruck"
-        description: "Eigene Klamotte mitbringen zum bedrucken, oder was bei Nino kaufen."
-        time: "13h00"
+        description: "Eigene Klamotte mitbringen zum bedrucken, coole Siebe drucken."
+        time: "13:00"
 
     - name: "Make A Button"
       photo: "/img/button.jpg"
-      bio: "Bastel dir deinen individuellen 42* Button."
-      company: "Miss Button"
+      bio: "Bastel dir deinen individuellen 42* Button"
+      company: "Meike"
       link:
-        href: "https://en.wikipedia.org/wiki/37_(number)"
-        text: "by missbutton"
+        href: ""
+        text: "by Meike"
       presentation:
         title: "Button Workshop"
         description: "Ein 42* Button beantwortet generell auch alle Fragen."
-        time: "13h00"
+        time: "13:00"
+
+    - name: "Rituale"
+      photo: "/img/orakel.png"
+      bio: "Unser Orakel wird dir einen Weg weisen"
+      company: "Michael Marquardt"
+      link:
+        href: "http://www.michael-marquardt.com/private.html"
+        text: "by Michael Marquardt"
+      presentation:
+        title: "Orakel"
+        description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen."
+        time: "13:00"
 
     - name: "Find Out What"
       photo: "/img/workshop2.jpg"
-      bio: "Eine Option herauszufinden, was es herauszufinden gibt."
+      bio: "Eine Option herauszufinden, was es herauszufinden gibt"
       company: "Unkown"
       link:
         href: "https://en.wikipedia.org/wiki/37_(number)"
-        text: "by whatever_37"
+        text: "by Whatever 37"
       presentation:
         title: "Missing Workshop"
         description: "Finde heraus, was es schon immer herauszufinden galt."
-        time: "13h00"
+        time: "13:00"
 
-    - name: "Theater"
-      time: "14h00"
+    - name: "Organic Materials"
+      photo: "/img/land-art.jpg"
+      bio: "Kreiere 100% biologisch abbaubare Kunst"
+      company: "Mira"
+      link:
+        href: ""
+        text: "by Mira"
+      presentation:
+        title: "Land Art"
+        description: "Erschaffe Kunst auf Basis natürliche auffindbarer Rohstoffen"
+        time: "14:00"
+
+    - name: "Erlesenes Kraut"
+      photo: "/img/herbs.png"
+      bio: "Wer sucht der findet, frisch von der Kulturwiese"
+      company: "Mira"
+      link:
+        href: ""
+        text: "by Mira"
+      presentation:
+        title: "Kräuterwanderung"
+        description: "Schaut euch auf der Wiese genau um, es gibt dort einiges zu pflücken."
+        time: "16:00"
+
+    - name: "Theater Aktion"
+      time: "14-16"
 
     - name: "Theater 1"
       photo: "/img/beyou.png"
@@ -137,26 +173,26 @@ params:
       company: "Be You Assemble"
       link:
         href: "https://www.p-stadtkultur.de/p-autoren/alex-diroll"
-        text: "by beyouuuu"
+        text: "by BeYouuuu"
       presentation:
         title: "Be You"
         description: "@ Side Stage: Text zum Theaterstück.."
-        time: "14h00"
+        time: "14:00"
 
-    - name: "Theater 2"
+    - name: "Poetry Slam"
       photo: "/img/42new.png"
-      bio: "Theater Performance von Fourtytwostar ..."
+      bio: "Und was hat das alles mit 79 zu tun?"
       company: "Fourtytwostar Assemble"
       link:
-        href: "http://github.com/billy95"
-        text: "by fourtytwostar"
+        href: "https://simple.wikipedia.org/wiki/42_(answer)"
+        text: "by FourtyTwoStar"
       presentation:
-        title: "Fourtytwo"
-        description: "@ Side Stage Text zum Theaterstück.."
-        time: "15h00"
+        title: "Poetry Slam"
+        description: "@ Side Stage Text zum Slam.."
+        time: "15:00"
 
     - name: "Live Musik"
-      time: "18h00"
+      time: "18-22"
 
     - name: "Psychodelic Krautrock"
       photo: "/img/lucidvoid.jpg"
@@ -164,11 +200,11 @@ params:
       company: "Psychodelic Krautrock"
       link:
         href: "https://lucidvoid.bandcamp.com"
-        text: "@lucidvoid"
+        text: ">> Link"
       presentation:
         title: "Lucid Void"
-        description: "Band Text here .."
-        time: "18h00"
+        description: "In Darmstadt vermutlich allen Krautrockern bereits ein Begriff: Lucid Void starten den Live Musik Abend mit ihrem unverkennbaren Psychodelic Krautrock."
+        time: "18:00"
 
     - name: "Soul & Rock Music"
       photo: "/img/tbsr.jpg"
@@ -176,20 +212,20 @@ params:
       company: "Soul & Rock"
       link:
         href: "https://badsugarrush.bandcamp.com"
-        text: "@badsugarrush"
+        text: ">> Link"
       presentation:
         title: "The Bad Sugar Rush"
-        description: "Band Text here .."
-        time: "19h30"
+        description: "Die Band The Bad Sugar Rush spielen Ihre neusten Songs, man darf sehr gespannt sein. Put on your dancing shoes .."
+        time: "19:30"
 
-    - name: "Psychodelic Space Jazz"
+    - name: "Psychodelic Jazz Rock"
       photo: "/img/karaba.jpg"
-      bio: "Space Kraut Jazz aus München"
-      company: "Psychodelic Space Jazz"
+      bio: "Spacey Jazz Krautrock aus München"
+      company: "Psycho Jazz Krautrock"
       link:
         href: "https://karaba-band.bandcamp.com"
-        text: "@karaba"
+        text: ">> Link"
       presentation:
         title: "Karaba"
-        description: "Band Text here .."
-        time: "21h00"
+        description: "Die Band Karaba kommt wieder nach Darmstadt. Nachdem sie im Mai 2022 die Oettinger Villa gerockt haben, freuen wir uns sehr sie heute auf der Kuturwiese als gloreichen 42* Abschluss dabei zu haben."
+        time: "21:00"
