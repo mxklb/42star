@@ -131,7 +131,7 @@ params:
     - name: "Find Out What"
       photo: "/img/workshop2.jpg"
       bio: "Eine Option herauszufinden, was es herauszufinden gibt"
-      company: "Unkown"
+      company: "Mr. X"
       link:
         href: "https://en.wikipedia.org/wiki/37_(number)"
         text: "by Whatever 37"
