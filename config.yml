@@ -110,7 +110,7 @@ params:
       company: "Meike"
       link:
         href: ""
-        text: "by Meike"
+        #text: "by Meike"
       presentation:
         title: "Button Workshop"
         description: "Ein 42* Button beantwortet generell auch alle Fragen."
@@ -146,7 +146,7 @@ params:
       company: "Mira"
       link:
         href: ""
-        text: "by Mira"
+        #text: "by Mira"
       presentation:
         title: "Land Art"
         description: "Erschaffe Kunst auf Basis natürliche auffindbarer Rohstoffen"
@@ -158,7 +158,7 @@ params:
       company: "Mira"
       link:
         href: ""
-        text: "by Mira"
+        #text: "by Mira"
       presentation:
         title: "Kräuter Wanderung"
         description: "Schaut euch auf der Wiese genau um, es gibt dort einiges zu pflücken."
