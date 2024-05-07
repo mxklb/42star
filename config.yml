@@ -126,19 +126,7 @@ params:
       presentation:
         title: "Orakel"
         description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen."
-        time: "13:00"
-
-    - name: "Find Out What"
-      photo: "/img/deep.jpg"
-      bio: "Eine Option herauszufinden, was es herauszufinden gibt"
-      company: "Mr. X"
-      link:
-        href: "https://en.wikipedia.org/wiki/37_(number)"
-        text: "by Whatever 37"
-      presentation:
-        title: "Missing Workshop"
-        description: "Finde heraus, was es schon immer herauszufinden galt."
-        time: "13:00"
+        time: "13:42"
 
     - name: "Organic Materials"
       photo: "/img/land-art.jpg"
@@ -151,6 +139,18 @@ params:
         title: "Land Art"
         description: "Erschaffe Kunst auf Basis natürliche auffindbarer Rohstoffen"
         time: "14:00"
+
+    - name: "Find Out What"
+      photo: "/img/deep.jpg"
+      bio: "Eine Option herauszufinden, was es herauszufinden gibt"
+      company: "Mr. X"
+      link:
+        href: "https://en.wikipedia.org/wiki/37_(number)"
+        text: "by Whatever 37"
+      presentation:
+        title: "Missing Workshop"
+        description: "Finde heraus, was es schon immer herauszufinden galt."
+        time: "14:37"
 
     - name: "Erlesenes Kraut"
       photo: "/img/herbs.jpg"
@@ -180,7 +180,7 @@ params:
         time: "14:00"
 
     - name: "Slam Maniacs"
-      photo: "/img/42new.png"
+      photo: "/img/42.png"
       bio: "Und was hat das jetzt alles mit 5*79 zu tun?"
       company: "Fourtytwostar"
       link:
