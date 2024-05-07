@@ -129,7 +129,7 @@ params:
         time: "13:00"
 
     - name: "Find Out What"
-      photo: "/img/workshop2.jpg"
+      photo: "/img/deep.jpg"
       bio: "Eine Option herauszufinden, was es herauszufinden gibt"
       company: "Mr. X"
       link:
