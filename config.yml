@@ -104,17 +104,17 @@ params:
         description: "Eigene Klamotte mitbringen zum bedrucken, coole Siebe drucken."
         time: "13:00"
 
-    - name: "Make A Button"
-      photo: "/img/button.jpg"
-      bio: "Bastel dir deinen individuellen 42* Button"
-      company: "Meike"
-      link:
-        href: ""
+    #- name: "Make A Button"
+    #  photo: "/img/button.jpg"
+    #  bio: "Bastel dir deinen individuellen 42* Button"
+    #  company: "Meike"
+    #  link:
+    #    href: ""
         #text: "by Meike"
-      presentation:
-        title: "Button Workshop"
-        description: "Ein 42* Button beantwortet generell auch alle Fragen."
-        time: "13:00"
+    #  presentation:
+    #    title: "Button Workshop"
+    #    description: "Ein 42* Button beantwortet generell auch alle Fragen."
+    #    time: "13:00"
 
     - name: "Rituale"
       photo: "/img/orakel.png"
@@ -179,7 +179,7 @@ params:
         description: "@ Side Stage: Text zum Theaterstück.."
         time: "14:00"
 
-    - name: "Poetry Slam"
+    - name: "Poetry Maniacs"
       photo: "/img/42new.png"
       bio: "Und was hat das jetzt alles mit 5 mal 79 zu tun?"
       company: "Fourtytwostar"
