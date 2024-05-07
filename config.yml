@@ -118,7 +118,7 @@ params:
 
     - name: "Rituale"
       photo: "/img/orakel.png"
-      bio: "Unser Orakel wird dir einen Weg weisen"
+      bio: "Das Orakel wird dir einen Weg weisen"
       company: "Michael Marquardt"
       link:
         href: "http://www.michael-marquardt.com/private.html"
@@ -179,9 +179,9 @@ params:
         description: "@ Side Stage: Text zum Theaterstück.."
         time: "14:00"
 
-    - name: "Poetry Maniacs"
+    - name: "Slam Maniacs"
       photo: "/img/42new.png"
-      bio: "Und was hat das jetzt alles mit 5 mal 79 zu tun?"
+      bio: "Und was hat das jetzt alles mit 5*79 zu tun?"
       company: "Fourtytwostar"
       link:
         href: "https://simple.wikipedia.org/wiki/42_(answer)"
