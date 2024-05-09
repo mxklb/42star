@@ -128,17 +128,17 @@ params:
         description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen."
         time: "13:42"
 
-    - name: "Organic Materials"
-      photo: "/img/land-art.jpg"
-      bio: "Kreiere 100% biologisch abbaubare Kunst"
-      company: "Mira"
-      link:
-        href: ""
+    #- name: "Organic Materials"
+    #  photo: "/img/land-art.jpg"
+    #  bio: "Kreiere 100% biologisch abbaubare Kunst"
+    #  company: "Mira"
+    #  link:
+    #    href: ""
         #text: "by Mira"
-      presentation:
-        title: "Land Art"
-        description: "Erschaffe Kunst auf Basis natürliche auffindbarer Rohstoffen"
-        time: "14:00"
+    #  presentation:
+    #    title: "Land Art"
+    #    description: "Erschaffe Kunst auf Basis natürliche auffindbarer Rohstoffen"
+    #    time: "14:00"
 
     - name: "Find Out What"
       photo: "/img/deep.jpg"
@@ -152,17 +152,17 @@ params:
         description: "Finde heraus, was es schon immer herauszufinden galt."
         time: "14:37"
 
-    - name: "Erlesenes Kraut"
-      photo: "/img/herbs.jpg"
-      bio: "Wer sucht der findet, frisch von der Kulturwiese"
-      company: "Mira"
-      link:
-        href: ""
+    #- name: "Erlesenes Kraut"
+    #  photo: "/img/herbs.jpg"
+    #  bio: "Wer sucht der findet, frisch von der Kulturwiese"
+    #  company: "Mira"
+    #  link:
+    #    href: ""
         #text: "by Mira"
-      presentation:
-        title: "Kräuter Wanderung"
-        description: "Schaut euch auf der Wiese genau um, es gibt dort einiges zu pflücken."
-        time: "16:00"
+    #  presentation:
+    #    title: "Kräuter Wanderung"
+    #    description: "Schaut euch auf der Wiese genau um, es gibt dort einiges zu pflücken."
+    #    time: "16:00"
 
     - name: "Theater Aktion"
       time: "14-16"
