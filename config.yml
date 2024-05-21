@@ -65,7 +65,7 @@ params:
 
   # The entire schedule
   Schedule:
-    - name: "Starter"
+    - name: "Auf der Wiese"
       time: "13-18"
 
     - name: "Patch Some Cables"
