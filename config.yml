@@ -92,6 +92,18 @@ params:
         description: "Nick Marschalek vom Neuzeit Kollektiv malt nice Bilder, begleitet von der Modular Synthesizer Session."
         time: "13:00"
 
+    - name: "Kunst zum mitmachen"
+      photo: "/img/interactive.png"
+      bio: "Ob klein oder gross, alle werden wildes Zeug malen"
+      company: "The Audience"
+      link:
+        href: ""
+        text: "by The Audience"
+      presentation:
+        title: "Interactive Art"
+        description: "Hier dürfen sich Erwachsene und Kinder gemeinsam künstlerisch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
+        time: "13:30"
+
     - name: "Print Some"
       photo: "/img/nino.jpg"
       bio: "Wer passende Klamotte mitbringt, kann bei Nino bedruckt werden"
@@ -103,18 +115,6 @@ params:
         title: "Nino's Siebdruck"
         description: "Eigene Klamotte mitbringen zum bedrucken, coole Siebe drucken."
         time: "13:37"
-
-    #- name: "Make A Button"
-    #  photo: "/img/button.jpg"
-    #  bio: "Bastel dir deinen individuellen 42* Button"
-    #  company: "Meike"
-    #  link:
-    #    href: ""
-        #text: "by Meike"
-    #  presentation:
-    #    title: "Button Workshop"
-    #    description: "Ein 42* Button beantwortet generell auch alle Fragen."
-    #    time: "13:00"
 
     - name: "Rituale"
       photo: "/img/orakel.png"
