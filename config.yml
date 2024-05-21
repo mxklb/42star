@@ -116,18 +116,6 @@ params:
         description: "Eigene Klamotte mitbringen zum bedrucken, coole Siebe drucken."
         time: "13:37"
 
-    - name: "Rituale"
-      photo: "/img/orakel.png"
-      bio: "Das Orakel wird dir einen Weg weisen"
-      company: "Michael Marquardt"
-      link:
-        href: "http://www.michael-marquardt.com/private.html"
-        text: "by Michael Marquardt"
-      presentation:
-        title: "Das Orakel"
-        description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen. Das Orakel findet den ganzen Tag auf der Wiese statt, sprecht es einfach an .."
-        time: "13:42"
-
     #- name: "Organic Materials"
     #  photo: "/img/land-art.jpg"
     #  bio: "Kreiere 100% biologisch abbaubare Kunst"
@@ -151,6 +139,18 @@ params:
         title: "Missing Workshop"
         description: "Finde heraus, was es schon immer herauszufinden galt."
         time: "13:39"
+
+    - name: "Rituale"
+      photo: "/img/orakel.png"
+      bio: "Das Orakel wird dir einen Weg weisen"
+      company: "Michael Marquardt"
+      link:
+        href: "http://www.michael-marquardt.com/private.html"
+        text: "by Michael Marquardt"
+      presentation:
+        title: "Das Orakel"
+        description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen. Das Orakel findet den ganzen Tag auf der Wiese statt, sprecht es einfach an .."
+        time: "13:42"
 
     #- name: "Erlesenes Kraut"
     #  photo: "/img/herbs.jpg"
