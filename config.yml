@@ -92,7 +92,7 @@ params:
         description: "Nick Marschalek vom Neuzeit Kollektiv malt, musikalisch begleitet vom Modular Lab, kreative Bilder. Er wird das Thema sowie 37 frei interpretieren."
         time: "13:00"
 
-    - name: "Kunst zum mitmachen"
+    - name: "Mit-Mach-Kunst"
       photo: "/img/interactive.png"
       bio: "Ob klein oder gross, alle werden wildes Zeug malen"
       company: "Das Publikum"
@@ -124,7 +124,7 @@ params:
         href: "http://www.michael-marquardt.com/private.html"
         text: "by Michael Marquardt"
       presentation:
-        title: "Orakel"
+        title: "Das Orakel"
         description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen. Das Orakel findet den ganzen Tag auf der Wiese statt, sprecht es einfach an .."
         time: "13:42"
 
