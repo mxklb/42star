@@ -92,7 +92,7 @@ params:
         description: "Nick Marschalek vom Neuzeit Kollektiv malt, musikalisch begleitet vom Modular Lab, kreative Bilder. Er wird das Thema sowie 37 frei interpretieren."
         time: "13:00"
 
-    - name: "Mit-Mach-Kunst"
+    - name: "Mit Mach Kunst"
       photo: "/img/interactive.png"
       bio: "Ob klein oder gross, alle werden wildes Zeug malen"
       company: "Das Publikum"
@@ -164,7 +164,7 @@ params:
     #    description: "Schaut euch auf der Wiese genau um, es gibt dort einiges zu pflücken."
     #    time: "16:00"
 
-    - name: "Theater Stage"
+    - name: "Theater Bühne"
       time: "14-16"
 
     - name: "Theater"
@@ -195,7 +195,7 @@ Wir werden es herausfinden."
         description: "@ Side Stage Text zum Slam.."
         time: "15:00"
 
-    - name: "Live Music Stage"
+    - name: "Musik Bühne"
       time: "18-22"
 
     - name: "Psychodelic Krautrock"
