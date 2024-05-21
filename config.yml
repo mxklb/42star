@@ -95,10 +95,10 @@ params:
     - name: "Kunst zum mitmachen"
       photo: "/img/interactive.png"
       bio: "Ob klein oder gross, alle werden wildes Zeug malen"
-      company: "The Audience"
+      company: "Das Publikum"
       link:
         href: ""
-        text: "by The Audience"
+        text: "by Das Publikum"
       presentation:
         title: "Mit Mal Aktion"
         description: "Hier dürfen sich Erwachsene und Kinder gemeinsam künstlerisch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
@@ -164,7 +164,7 @@ params:
     #    description: "Schaut euch auf der Wiese genau um, es gibt dort einiges zu pflücken."
     #    time: "16:00"
 
-    - name: "Theater Aktion"
+    - name: "Theater Stage"
       time: "14-16"
 
     - name: "Theater"
@@ -183,7 +183,7 @@ Was das mit unserer Katze und der Oma zu tun hat?
 Wir werden es herausfinden."
         time: "14:00"
 
-    - name: "Slam Maniacs"
+    - name: "Poetry Slam"
       photo: "/img/42.png"
       bio: "Und was hat das jetzt alles mit 5*79 zu tun?"
       company: "Fourtytwostar"
@@ -191,11 +191,11 @@ Wir werden es herausfinden."
         href: "https://simple.wikipedia.org/wiki/42_(answer)"
         text: "by FourtyTwoStar"
       presentation:
-        title: "Poetry Slam"
+        title: "Slam Maniacs"
         description: "@ Side Stage Text zum Slam.."
         time: "15:00"
 
-    - name: "Live Musik"
+    - name: "Live Music Stage"
       time: "18-22"
 
     - name: "Psychodelic Krautrock"
