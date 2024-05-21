@@ -169,14 +169,18 @@ params:
 
     - name: "Theater"
       photo: "/img/beyou.png"
-      bio: "Theater Performance von A.Diroll & Johanna"
-      company: "Be You Assemble"
+      bio: "Oder fällt dir sonst noch was dazu ein?"
+      company: "Johanna & Alex"
       link:
-        href: "https://www.p-stadtkultur.de/p-autoren/alex-diroll"
-        text: "by BeYouuuu"
+        href: ""
+        text: "von Johanna Schubert & E.A.Diroll"
       presentation:
-        title: "Be You"
-        description: "@ Side Stage: Text zum Theaterstück.."
+        title: "Alles - Oh mein Gott - Scheiße?!"
+        description: "Wenn Gott unsere WG besuchen würde,
+würden wir ihm dann eine Banane anbieten
+oder hochkantig rausschmeißen?
+Was das mit unserer Katze und der Oma zu tun hat?
+Wir werden es herausfinden."
         time: "14:00"
 
     - name: "Slam Maniacs"
