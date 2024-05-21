@@ -125,7 +125,7 @@ params:
         text: "by Michael Marquardt"
       presentation:
         title: "Orakel"
-        description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen."
+        description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen. Das Orakel findet den ganzen Tag auf der Wiese statt, sprecht es einfach an .."
         time: "13:42"
 
     #- name: "Organic Materials"
