@@ -1,5 +1,11 @@
 <h2 class="section-title">{{ .titles.about }}</h2>
 
+<p itemprop="name">
+    {{ with .flyer }}
+        <img src="{{ . }}" alt="42 Flyer">
+    {{ end }}
+</p>
+
 <p itemprop="description">42* ist eine Kunst, Kultur & Open Air Live Musik Veranstaltung in Darmstadt.
     Es geht um <a href="https://simple.wikipedia.org/wiki/42_(answer)" target="_blank">42</a> die Antwort auf alles.
     Es ist eine Non-Profit Veranstaltung, d.h. alle Spenden gehen an die Bands und die Kulturschaffenden.

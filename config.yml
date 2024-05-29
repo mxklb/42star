@@ -16,6 +16,8 @@ params:
   City:  "Darmstadt"
   State: "Hessen"
   Images: ["/img/badge.jpg"]
+  Logo: "/img/42-white.png"
+  #Flyer: "/img/42.png"
   #GoogleMapsKey: "sSPBUTYT6NXrCBjv9"
   #https://maps.app.goo.gl/sSPBUTYT6NXrCBjv9
 
