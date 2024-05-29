@@ -4,7 +4,7 @@ This is the landing page for the 42 Start Event 2024.
 
 ## Development
 
-To run this loacally
+To run this local
 
     hugo server --watch
 
