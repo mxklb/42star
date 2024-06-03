@@ -72,14 +72,14 @@ params:
 
     - name: "Patch Some Cables"
       photo: "/img/slomosmo.png"
-      bio: "Eine experimentelle Modular Synthesizer Chill Out Session"
-      company: "Slomosmo"
+      bio: "Eine experimentelle Modular Synthesizer Soundscape Session"
+      company: "Smo & Friends"
       link:
-        href: "https://soundcloud.com/slomosmo"
-        text: "by Slomosmo"
+        href: "https://linktr.ee/slomosmo"
+        text: "by Smo & Friends"
       presentation:
         title: "Modular Lab"
-        description: "Slomosmo & Friends kredenzen euch eine wundervolle Live Session. Sie machen elektronische Musik zur Untermalung der Workshops, bis in den Nachmittag hinein."
+        description: "Das Modular Lab kredenzt euch eine wundervolle Live Session. Sie machen elektronische Musik zur Untermalung der Workshops, bis in den Nachmittag hinein."
         time: "13:00"
 
     - name: "37 Magics"
