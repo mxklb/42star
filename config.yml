@@ -103,7 +103,7 @@ params:
         text: "by Das Publikum"
       presentation:
         title: "Mit Mal Aktion"
-        description: "Hier dürfen sich Kinder sowie Erwachsene gemeinsam künstlerisch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
+        description: "Hier dürfen sich Klein und Gross gemeinsam künstlerisch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
         time: "13:30"
 
     - name: "Print Some"
@@ -233,5 +233,5 @@ Wir werden es herausfinden."
         text: ">> Link"
       presentation:
         title: "Karaba"
-        description: "Final wird uns Karaba ein psychodelisch gloreiches Abschluss Konzert kredenzen."
+        description: "Final wird uns Karaba zum gloreichen Abschluss ein wunderbar abgefreaktes Konzert liefern."
         time: "21:00"
