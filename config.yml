@@ -7,7 +7,7 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "42* Fest"
+  Name: "42* Open Air"
   Description: "42 The Answer"
   Date: "24. August"
   #Price: "Only $100" # If your event is free, just comment this line
