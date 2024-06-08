@@ -187,7 +187,7 @@ Wir werden es herausfinden."
 
     - name: "Poetry Slam"
       photo: "/img/42.png"
-      bio: "Und was hat das jetzt alles mit 5*79 zu tun?"
+      bio: "Und was hat das jetzt alles mit 37 zu tun?"
       company: "Fourtytwostar"
       link:
         href: "https://simple.wikipedia.org/wiki/42_(answer)"
@@ -235,3 +235,18 @@ Wir werden es herausfinden."
         title: "Karaba"
         description: "Final wird uns Karaba zum gloreichen Abschluss ein wunderbar abgefreaktes Konzert liefern."
         time: "21:00"
+
+    - name: "Reise zum Sumpf"
+      time: "22:15"
+
+    - name: "Music From Out Of Space"
+      photo: "/img/ztudfe.jpg"
+      bio: "Unzuordbarer Alien Sound Mashup"
+      company: "Freaky Alien Sounds"
+      link:
+        href: "https://ztudfe.bandcamp.com"
+        text: ">> Link"
+      presentation:
+        title: "Zimtthinks und der faradayische Elefant"
+        description: "Zum Transfer gibt es einen außerirdischen Walking Act zum Sumpf."
+        time: "22:15"
