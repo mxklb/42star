@@ -108,14 +108,14 @@ params:
 
     - name: "Print Some"
       photo: "/img/nino.jpg"
-      bio: "Wer passende Klamotte mitbringt, kann bei Nino bedruckt werden"
+      bio: "Wer Klamotte sucht oder mitbringt, kann bei Nino bedruckt werden"
       company: "Streetheartcolor"
       link:
         href: "https://www.instagram.com/streetheartcolor/"
         text: "by Streetheartcolor"
       presentation:
         title: "Nino's Siebdruck"
-        description: "Eigene Klamotte mitbringen zum bedrucken, coole Siebe drucken."
+        description: "Wer keine passende Klamotte zum bedrucken mitbringt, der findet bestimmt ein passend koloriertes Teil im Streetheart Jungle :)"
         time: "13:37"
 
     - name: "Rituale"
