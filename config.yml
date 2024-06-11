@@ -1,5 +1,5 @@
 baseurl: "https://example.org/"
-title: "Fourty Two Star"
+title: "Forty Two Star"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -188,10 +188,10 @@ Wir werden es herausfinden."
     - name: "Poetry Slam"
       photo: "/img/42.png"
       bio: "Und was hat das jetzt alles mit 37 zu tun .."
-      company: "Fourtytwo Stars"
+      company: "Fortytwo Stars"
       link:
         href: "https://simple.wikipedia.org/wiki/42_(answer)"
-        text: "by FourtyTwoStars"
+        text: "by FortyTwoStars"
       presentation:
         title: "Fragen zum Nichts"
         description: "Einer der sonnigsten Slams auf diesem Planeten. Rumble in the 42* Jungle, so oder so ähnlich .. halt Fragen zum Nichts."
