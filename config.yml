@@ -121,7 +121,7 @@ params:
     - name: "Rituale"
       photo: "/img/orakel.png"
       bio: "Das Orakel wird dir einen Weg weisen"
-      company: "Michael & Alex"
+      company: "Michi & Alex"
       link:
         href: "http://www.michael-marquardt.com/private.html"
         text: "by Michael Marquardt"
