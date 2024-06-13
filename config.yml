@@ -121,13 +121,13 @@ params:
     - name: "Rituale"
       photo: "/img/orakel.png"
       bio: "Das Orakel wird dir einen Weg weisen"
-      company: "Michael Marquardt"
+      company: "Michael & Alex"
       link:
         href: "http://www.michael-marquardt.com/private.html"
         text: "by Michael Marquardt"
       presentation:
         title: "Das Orakel"
-        description: "Wer nicht beim Orakel war, der kann es einfach nicht wissen. Das Orakel findet den ganzen Tag auf der Wiese statt, sprecht es an.."
+        description: "Wir sind das Orakel vom Platz. Das Orakel findet den ganzen Tag statt. Bringt eine persönliche Frage mit. Und ein Geschenk. Die Antwort könnte dich überraschen."
         time: "13:42"
 
     #- name: "Organic Materials"
