@@ -8,7 +8,7 @@ GoogleAnalytics: ""
 params:
   # Conference info
   Name: "42* Open Air"
-  Description: "42 The Answer"
+  Description: "42* ist eine Kunst, Kultur & Open Air Live Musik Veranstaltung. Das Event findet von 13 - 22 Uhr auf der Kulturwiese Darmstadt statt."
   Date: "24. August"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Kulturwiese"
