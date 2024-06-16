@@ -12,9 +12,10 @@ params:
   Date: "24. August"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Kulturwiese"
-  Address: "Schreberweg 21"
+  Address: "Kulturwiese"
   City:  "Darmstadt"
-  State: "Hessen"
+  State: "Darmstadt Nord"
+  Coord: "49.893638, 8.662776"
   Images: ["/img/42-badge.png"]
   Logo: "/img/42-white.png"
   #Flyer: "/img/42.png"
@@ -157,18 +158,6 @@ params:
         description: "Finde heraus, was es schon immer herauszufinden galt."
         time: "13:99"
 
-    #- name: "Erlesenes Kraut"
-    #  photo: "/img/herbs.jpg"
-    #  bio: "Wer sucht der findet, frisch von der Kulturwiese"
-    #  company: "Mira"
-    #  link:
-    #    href: ""
-        #text: "by Mira"
-    #  presentation:
-    #    title: "Kräuter Wanderung"
-    #    description: "Schaut euch auf der Wiese genau um, es gibt dort einiges zu pflücken."
-    #    time: "16:00"
-
     - name: "Theater Bühne"
       time: "14-16"
 
@@ -199,6 +188,18 @@ Wir werden es herausfinden."
         title: "Fragen zum Nichts"
         description: "Einer der sonnigsten Slams auf diesem Planeten. Rumble in the 42* Jungle, so oder so ähnlich .."
         time: "15:00"
+
+    - name: "Erlesenes Kraut"
+      photo: "/img/herbs.jpg"
+      bio: "Wer sucht der findet, frisch von der Kulturwiese"
+      company: "Mira"
+      link:
+        href: ""
+        text: "by Mira"
+      presentation:
+        title: "Kräuter Wanderung"
+        description: "Schaut euch auf der Wiese genau um. Es gibt dort viel essbares zu entdecken und einiges zu pflücken."
+        time: "16:00"
 
     - name: "Musik Bühne"
       time: "18-22"
@@ -240,7 +241,7 @@ Wir werden es herausfinden."
         time: "20:45"
 
     - name: "Reise zum Sumpf"
-      time: "22:15"
+      time: "22:00"
 
     - name: "Music From Out Of Space"
       photo: "/img/ztudfe.jpg"
@@ -252,4 +253,4 @@ Wir werden es herausfinden."
       presentation:
         title: "Zimtthinks und der faradayische Elefant"
         description: "Zum Transfer gibt es einen außerirdischen Walking Act zum Sumpf."
-        time: "22:15"
+        time: "22:00"
