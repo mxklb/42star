@@ -55,7 +55,7 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "Max"
+    - name: "Crew"
       logo: "/img/contact.png"
       url: "https://mxklb.github.io/42star"
     - name: "Link"
