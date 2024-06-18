@@ -83,7 +83,7 @@ params:
         text: "by Smo & Friends"
       presentation:
         title: "Modular Lab"
-        description: "Das Modular Lab kredenzt euch eine wundervolle Live Session. Sie machen elek&shy;tro&shy;ni&shy;sche Musik zur Unter&shy;malung der Works&shy;hops, bis in den Nach&shy;mittag hinein."
+        description: "Das Modular Lab kredenzt euch eine wundervolle Live Session. Sie machen elektronische Musik zur Untermalung der Workshops, bis in den Nachmittag hinein."
         time: "13:00"
 
     - name: "37 Magics"
@@ -107,7 +107,7 @@ params:
         text: "by Das Publikum"
       presentation:
         title: "Mit Mal Aktion"
-        description: "Hier dürfen sich Klein und Gross gemeinsam künst&shy;le&shy;risch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
+        description: "Hier dürfen sich Klein und Gross gemeinsam künstlerisch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
         time: "13:30"
 
     - name: "Print Some"
@@ -155,7 +155,7 @@ params:
         text: "by Whatever 37"
       presentation:
         title: "Missing Workshop"
-        description: "Finde heraus, was es schon immer her&shy;aus&shy;zu&shy;finden galt."
+        description: "Finde heraus, was es schon immer herauszufinden galt."
         time: "13:99"
 
     - name: "Theater Bühne"
