@@ -155,7 +155,7 @@ params:
         text: "by Whatever 37"
       presentation:
         title: "Missing Workshop"
-        description: "Finde heraus, was es schon immer herauszufinden galt."
+        description: "Finde heraus, was es schon immer her&shy;aus&shy;zu&shy;finden galt."
         time: "13:99"
 
     - name: "Theater Bühne"
