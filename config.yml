@@ -107,7 +107,7 @@ params:
         text: "by Das Publikum"
       presentation:
         title: "Mit Mal Aktion"
-        description: "Hier dürfen sich Klein und Gross gemeinsam künstlerisch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
+        description: "Hier dürfen sich Klein und Gross gemeinsam künst&shy;le&shy;risch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
         time: "13:30"
 
     - name: "Print Some"
