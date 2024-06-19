@@ -180,13 +180,13 @@ Wir werden es herausfinden."
     - name: "Poetry Slam"
       photo: "/img/42.png"
       bio: "Und was hat das jetzt alles mit 37 zu tun .."
-      company: "Forty 2 Stars"
+      company: "Moderation: J. Schubert"
       link:
         href: "https://simple.wikipedia.org/wiki/42_(answer)"
-        text: "by Forty 2 Stars"
+        text: "Moderation by J. Schubert"
       presentation:
-        title: "Fragen zum Nichts"
-        description: "Einer der sonnigsten Slams auf diesem Planeten. Rumble in the 42* Jungle, so oder so ähnlich .."
+        title: "Die Antwort auf Alles und Fragen zum Nichts"
+        description: "Texte über Zukünftiges - ob politisch, irgendwas mit KI, dystoipisch, kafkaesk oder paradiesisch - wir - das Puplikum - hinter der vierten durchbrochenen Wand ..."
         time: "15:00"
 
     - name: "Erlesenes Kraut"
