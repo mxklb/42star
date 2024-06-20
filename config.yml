@@ -107,7 +107,7 @@ params:
         text: "by Das Publikum"
       presentation:
         title: "Mit Mal Aktion"
-        description: "Hier dürfen sich Klein und Gross gemeinsam künstlerisch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf alles, zu kreieren."
+        description: "Hier dürfen sich Klein und Gross gemeinsam künstlerisch austoben. Es geht nicht darum das Schönste, sondern was Verrücktes, die Antwort auf Alles, zu kreieren."
         time: "13:30"
 
     - name: "Print Some"
@@ -197,7 +197,7 @@ Wir werden es herausfinden."
         href: "https://de.wiktionary.org/wiki/Bl%C3%BCtensekt"
         text: "by Mira"
       presentation:
-        title: "Wiesenkraut Tour"
+        title: "Wiesenkräuter Tour"
         description: "Schaut euch auf der Wiese genau um. Es gibt es so einiges zu entdecken und auch zu probieren. Aber immer Beachten: Kennen statt kotzen."
         time: "16:00"
 
