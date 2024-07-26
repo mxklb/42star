@@ -204,18 +204,6 @@ Wir werden es herausfinden."
     - name: "Musik Bühne"
       time: "17-22"
 
-    - name: "Psychedelic Krautrock"
-      photo: "/img/lucidvoid.jpg"
-      bio: "Psychedelic Rock aus Darmstadt"
-      company: "Psychedelic Krautrock"
-      link:
-        href: "https://lucidvoid.bandcamp.com"
-        text: ">> Link"
-      presentation:
-        title: "Lucid Void"
-        description: "Lucid Void starten den Live Musik Abend mit ihrem unverkennbaren Psychedelic Rock."
-        time: "18:00"
-
     - name: "Rock'n'Soul Music"
       photo: "/img/tbsr.jpg"
       bio: "Finest Rock'n'Soul aus Darmstadt"
@@ -226,6 +214,18 @@ Wir werden es herausfinden."
       presentation:
         title: "Bad Sugar Rush"
         description: "Bad Sugar Rush packen ihre greatest Hits aus. Schnallt euch gut an, it's getting groovy .."
+        time: "18:00"
+
+    - name: "Psychedelic Krautrock"
+      photo: "/img/lucidvoid.jpg"
+      bio: "Psychedelic Rock aus Darmstadt"
+      company: "Psychedelic Krautrock"
+      link:
+        href: "https://lucidvoid.bandcamp.com"
+        text: ">> Link"
+      presentation:
+        title: "Lucid Void"
+        description: "Lucid Void starten den Live Musik Abend mit ihrem unverkennbaren Psychedelic Rock."
         time: "19:30"
 
     - name: "Psychedelic Jazz Rock"
