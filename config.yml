@@ -64,6 +64,12 @@ params:
     - name: "Flyer"
       logo: "/img/flyer-small.png"
       url: "https://mxklb.github.io/42star"
+    - name: "Logo"
+      logo: "/img/42-ref.png"
+      url: "https://mxklb.github.io/42star"
+    - name: "Chris"
+      logo: "/img/chrisheld.png"
+      url: "https://mxklb.github.io/42star"
 
   # List of Partners
   Partners:
