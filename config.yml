@@ -55,20 +55,20 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "Crew"
-      logo: "/img/contact.png"
-      url: "https://mxklb.github.io/42star"
-    - name: "Link"
-      logo: "/img/qrcode.png"
-      url: "https://mxklb.github.io/42star"
-    - name: "Flyer"
-      logo: "/img/flyer-small.png"
+    - name: "Chris"
+      logo: "/img/chrisheld.png"
       url: "https://mxklb.github.io/42star"
     - name: "Logo"
       logo: "/img/42-ref.png"
       url: "https://mxklb.github.io/42star"
-    - name: "Chris"
-      logo: "/img/chrisheld.png"
+    - name: "Flyer"
+      logo: "/img/flyer-small.png"
+      url: "https://mxklb.github.io/42star"
+    - name: "Link"
+      logo: "/img/qrcode.png"
+      url: "https://mxklb.github.io/42star"
+    - name: "Crew"
+      logo: "/img/contact.png"
       url: "https://mxklb.github.io/42star"
 
   # List of Partners
