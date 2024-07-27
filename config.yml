@@ -69,7 +69,7 @@ params:
       url: "https://mxklb.github.io/42star"
     - name: "Crew"
       logo: "/img/contact.png"
-      url: "https://mxklb.github.io/42star"
+      url: "mailto:42sternchen.festival@gmail.com"
 
   # List of Partners
   Partners:
