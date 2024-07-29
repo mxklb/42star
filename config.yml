@@ -152,18 +152,6 @@ params:
         description: "Finde heraus, was es schon immer herauszufinden galt."
         time: "13:99"
 
-    - name: "Vortrag"
-      photo: "/img/biene.jpg"
-      bio: "Einführung in das Leben der Bienen"
-      company: "Bashar Haj Chaban"
-      link:
-        href: "https://www.darmstadt.de/nachrichten/darmstadt-aktuell/news/zoo-vivarium-72"
-        text: "by Bashar Haj Chaban"
-      presentation:
-        title: "Honeybees"
-        description: "Da wir uns auf der Kulturwiese befinden, gibt es einen wundervollen Vortrag zum Leben der Bienen."
-        time: "15:00"
-
     - name: "Theater Bühne"
       time: "14-16"
 
@@ -183,6 +171,18 @@ Was das mit unserer Katze und der Oma zu tun hat?
 Wir werden es herausfinden."
         time: "14:00"
 
+    - name: "Vortrag"
+      photo: "/img/biene.jpg"
+      bio: "Einführung in das Leben der Bienen"
+      company: "Bashar Haj Chaban"
+      link:
+        href: "https://www.darmstadt.de/nachrichten/darmstadt-aktuell/news/zoo-vivarium-72"
+        text: "by Bashar Haj Chaban"
+      presentation:
+        title: "Honeybees"
+        description: "Da wir uns auf der Kulturwiese befinden, gibt es einen wundervollen Vortrag zum Leben der Bienen."
+        time: "14:45"
+
     - name: "Poetry Slam"
       photo: "/img/42.png"
       bio: "Die Antwort auf Alles und Fragen zum Nichts"
@@ -193,7 +193,7 @@ Wir werden es herausfinden."
       presentation:
         title: "Die Antwort auf Alles"
         description: "Texte über Zukünftiges - ob politisch, irgendwas mit KI, dystoipisch, kafkaesk oder paradiesisch .. 42"
-        time: "15:00"
+        time: "15:15"
 
     - name: "Erlesenes Kraut"
       photo: "/img/herbs.jpg"
