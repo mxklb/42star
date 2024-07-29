@@ -140,18 +140,6 @@ params:
         description: "Wir sind das Orakel vom Platz. Das Orakel findet den ganzen Tag statt. Bring eine persönliche Frage mit. Und ein Geschenk. Die Antwort könnte dich überraschen."
         time: "13:42"
 
-    #- name: "Organic Materials"
-    #  photo: "/img/land-art.jpg"
-    #  bio: "Kreiere 100% biologisch abbaubare Kunst"
-    #  company: "Mira"
-    #  link:
-    #    href: ""
-        #text: "by Mira"
-    #  presentation:
-    #    title: "Land Art"
-    #    description: "Erschaffe Kunst auf Basis natürliche auffindbarer Rohstoffen"
-    #    time: "14:00"
-
     - name: "Find Out What"
       photo: "/img/deep.jpg"
       bio: "Eine Option herauszufinden, was es herauszufinden gibt"
@@ -164,6 +152,18 @@ params:
         description: "Finde heraus, was es schon immer herauszufinden galt."
         time: "13:99"
 
+    - name: "Vortrag"
+      photo: "/img/biene.jpg"
+      bio: "Einführung in das Leben der Bienen"
+      company: "Bashar Haj Chaban"
+      link:
+        href: "https://www.darmstadt.de/nachrichten/darmstadt-aktuell/news/zoo-vivarium-72"
+        text: "by Bashar Haj Chaban"
+      presentation:
+        title: "Honeybees"
+        description: "Eine kleine Einführung in das Leben der Bienen."
+        time: "15:00"
+
     - name: "Theater Bühne"
       time: "14-16"
 
@@ -173,7 +173,7 @@ params:
       company: "Johanna & Alex"
       link:
         href: ""
-        text: "von J. Schubert & E.A.Diroll"
+        text: "by J. Schubert & E.A.Diroll"
       presentation:
         title: "Alles - Oh mein Gott - Scheiße?!"
         description: "Wenn Gott unsere WG besuchen würde,
