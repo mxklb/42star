@@ -16,4 +16,4 @@ This page is deployed to github pages: [mxklb.github.io/42star](https://mxklb.gi
 
 ## Licence
 
-This code is licensed under [GNU GPLv3](https://github.com/mansoorbarri/coming-soon/blob/main/LICENCE)
+This code is licensed under [GNU GPLv3](https://github.com/mxklb/42star/blob/master/LICENCE)
