@@ -1,0 +1,11 @@
+baseURL = "https://42star.de"
+title = "Forty Two Star"
+theme = "coming-soon"
+
+[params]
+    title = "42* Open Air 2025" 
+    description = "THE ANSWER"
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "August 23, 2025"
+    background = "" 
